@@ -5,7 +5,7 @@
 
 <h1 align="center">药娘的天空（有声书版）<br /><small>别名：想要变成鹰的鱼</small></h1>
 
-<p align="center">一个 2000 年代的跨性别者的故事，有声书改编版。</p>
+<p align="center">一个 2000 年代的跨性别者的故事。</p>
 
 <p align="center"><i>千篇一律的景，时长时短的影。无人相伴的路，惝恍迷离的舞。</i></p>
 
@@ -13,10 +13,11 @@
 
 ## 📖 项目简介
 
-本项目是小说 **《药娘的天空》（原作仓库：[trans-archive/transky](https://github.com/trans-archive/transky)）** 的**非官方有声书版本**。  
+本项目是小说 **《药娘的天空》（原作仓库：[trans-archive/transky](https://github.com/trans-archive/transky)）** 的 **非官方**有声书版本。  
 原作基于 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 协议开放，本项目亦遵循相同协议。
 
-> ⚠️
+> ⚠️**提示**
+> 
 > 本项目内容涉及 **跨性别群体的处境与社会话题**。  
 > 请以尊重与理解的态度阅读与聆听。  
 > 作品中的故事并非个人真实经历，请勿将其与现实人物混同。
