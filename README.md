@@ -65,7 +65,7 @@ transky-audio/
 ├── audio/                          # 有声书音频文件
 │   ├── main/                       # 正文部分（主线故事）
 │   ├── Exter/                      # 外传
-│   ├── FangAnStory/                # 抓不住的幸福・方茵茵篇
+│   ├── FangAnStory/                # 抓不住的幸福・方莜莜篇
 │   ├── Hope/                       # 番外・假如一切都还在
 │   ├── StoriesBeforeTheStory/      # 番外・在故事开始之前的故事
 │   └── StoriesOutsideTheStory/     # 番外・在故事之外的故事
