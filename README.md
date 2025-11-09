@@ -62,10 +62,20 @@
 
 ```
 transky-audio/
-├── audio/               # 已完成的有声书音频文件（MP3）
-├── src/                 # 源素材、封面、图片等
-├── README.md            # 本说明文件
-└── LICENSE              # 授权信息 (CC BY-NC-SA 4.0)
+├── audio/                          # 有声书音频文件
+│   ├── main/                       # 正文部分（主线故事）
+│   ├── Exter/                      # 外传
+│   ├── FangAnStory/                # 抓不住的幸福・方茵茵篇
+│   ├── Hope/                       # 番外・假如一切都还在
+│   ├── StoriesBeforeTheStory/      # 番外・在故事开始之前的故事
+│   └── StoriesOutsideTheStory/     # 番外・在故事之外的故事
+│
+├── src/                            # 源素材、封面、图片等
+│   └── public/
+│       └── progynova.png           # 项目图标
+│
+├── README.md                       # 本说明文件
+└── LICENSE                         # 授权信息 (CC BY-NC-SA 4.0)
 ```
 
 ---
