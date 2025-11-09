@@ -3,7 +3,7 @@
   <img src="src/public/progynova.png" alt="Progynova" width="128" height="128"/>
 </p>
 
-<h1 align="center">药娘的天空（有声书版）<br /><small>别名：想要变成鹰的鱼</small></h1>
+<h1 align="center">药娘的天空（有声书）<br /><small>别名：想要变成鹰的鱼</small></h1>
 
 <p align="center">一个 2000 年代的跨性别者的故事。</p>
 
@@ -13,7 +13,7 @@
 
 ## 📖 项目简介
 
-本项目是小说 **《药娘的天空》（原作仓库：[trans-archive/transky](https://github.com/trans-archive/transky)）** 的 **非官方**有声书版本。  
+本项目是小说 **《药娘的天空》（原作仓库：[trans-archive/transky](https://github.com/trans-archive/transky)）** 的**非官方**有声书。  
 原作基于 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 协议开放，本项目亦遵循相同协议。
 
 > ⚠️**提示**
@@ -96,7 +96,6 @@ transky-audio/
 
 - 原作作者及维护者团队 [trans-archive/transky](https://github.com/trans-archive/transky)
 - 语音支持：[TTSMAKER](https://ttsmaker.cn/)
-- 默认声音提供：`1504-Xx潇潇`
 - 所有为改进音频质量与文本准确性贡献力量的朋友
 
 ---
